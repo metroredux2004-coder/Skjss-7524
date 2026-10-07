@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "tested": [
+    "pause",
+    "reset",
+    "step",
+    "temperature",
+    "thermostat",
+    "trails",
+    "live CSV download",
+    "analysis tabs",
+    "presets",
+    "all artifact links",
+    "390px responsive layout"
+  ],
+  "browserErrors": [],
+  "mobileOverflow": false
+}
